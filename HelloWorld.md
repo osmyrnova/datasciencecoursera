@@ -2,4 +2,4 @@
 
 ## This is a markdown file
 
-## My first text doc on my new Mac
+##  and my first text doc on my new Mac
